@@ -7,6 +7,9 @@ sites:
     url: https://www.nba.com/bucks
   - name: bucks.com Redirect
     url: https://bucks.com
+    expectedStatusCodes:
+      - 200
+      - 301
   - name: Deer District
     url: https://deerdistrict.com
   - name: The MECCA

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 531,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 516,
+    "timeDay": 530,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 418,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 695,
+    "timeDay": 512,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 373,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "time": 289,
+    "timeDay": 356,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -64,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 639,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 585,
+    "timeDay": 712,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Super Duper Test Site",
-    "url": "https://asfa43avdsvcadvcadsf.rea3r34",
-    "icon": "https://icons.duckduckgo.com/ip3/asfa43avdsvcadvcadsf.rea3r34.ico",
-    "slug": "super-duper-test-site",
-    "status": "down",
-    "uptime": "6.92%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "6.92%",
-    "uptimeYear": "6.92%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-01-31": 0
-    }
   }
 ]

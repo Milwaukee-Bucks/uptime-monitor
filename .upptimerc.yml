@@ -14,10 +14,12 @@ sites:
       - 301
   - name: Deer District
     url: https://deerdistrict.com
-    __dangerous__body_down_if_text_missing: 'DEER DISTRICT'
+    __dangerous__body_down_if_text_missing: 'Deer District'
   - name: The MECCA
     url: https://themeccamke.com
     __dangerous__body_down_if_text_missing: '1134 N. Vel R. Phillips Ave. Milwaukee, WI 53203'
+  - name: Super Duper Test Site
+    url: https://asfa43avdsvcadvcadsf.rea3r34
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

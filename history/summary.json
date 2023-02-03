@@ -4,36 +4,40 @@
     "url": "https://www.nba.com/bucks",
     "icon": "https://icons.duckduckgo.com/ip3/www.nba.com.ico",
     "slug": "milwaukee-bucks-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 517,
-    "timeWeek": 480,
-    "timeMonth": 499,
-    "timeYear": 499,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 567,
+    "timeWeek": 493,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2023-02-03": 0
+    }
   },
   {
     "name": "bucks.com Redirect",
     "url": "https://bucks.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucks.com.ico",
     "slug": "bucks-com-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 458,
-    "timeWeek": 559,
-    "timeMonth": 660,
-    "timeYear": 660,
-    "dailyMinutesDown": {}
+    "time": 706,
+    "timeDay": 881,
+    "timeWeek": 627,
+    "timeMonth": 706,
+    "timeYear": 706,
+    "dailyMinutesDown": {
+      "2023-02-03": 0
+    }
   },
   {
     "name": "Deer District",

@@ -74,19 +74,19 @@
     "url": "https://themeccamke.com",
     "icon": "https://icons.duckduckgo.com/ip3/themeccamke.com.ico",
     "slug": "the-mecca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 551,
-    "timeWeek": 583,
-    "timeMonth": 622,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 594,
+    "timeDay": 554,
+    "timeWeek": 580,
+    "timeMonth": 620,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-03-11": 0
+      "2023-03-11": 12
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://bucks.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-23T03:33:48.572Z
+status: up
+code: 200
+responseTime: 4278
+lastUpdated: 2023-03-23T03:45:21.064Z
 startTime: Wed Jan 25 2023 22:24:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

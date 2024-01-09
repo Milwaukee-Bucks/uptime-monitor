@@ -1,7 +1,7 @@
 url: https://www.nba.com/bucks
-status: up
-code: 200
-responseTime: 1669
-lastUpdated: 2024-01-08T23:01:22.080Z
+status: down
+code: 500
+responseTime: 811
+lastUpdated: 2024-01-09T02:53:49.894Z
 startTime: 2023-01-25T22:24:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>

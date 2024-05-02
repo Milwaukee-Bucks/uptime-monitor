@@ -5,13 +5,14 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Milwaukee Bucks Main Website
     url: https://www.nba.com/bucks
-    __dangerous__body_down_if_text_missing: 'Latest Videos'
+    expectedStatusCodes:
+      - 200
   - name: bucks.com Redirect
     url: https://bucks.com
-    __dangerous__body_down_if_text_missing: 'Latest Videos'
     expectedStatusCodes:
       - 200
       - 301
+      - 302
   - name: Deer District
     url: https://deerdistrict.com
     __dangerous__body_down_if_text_missing: 'Deer District'

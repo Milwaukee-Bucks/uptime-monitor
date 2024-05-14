@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nba.com.ico",
     "slug": "milwaukee-bucks-main-website",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "43.15%",
     "uptimeYear": "95.22%",
     "time": 1158,
-    "timeDay": 431,
-    "timeWeek": 480,
-    "timeMonth": 564,
-    "timeYear": 1302,
+    "timeDay": 1023,
+    "timeWeek": 552,
+    "timeMonth": 578,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2024-05-02": 1222,
       "2024-05-01": 1440,
@@ -38,8 +38,7 @@
       "2023-10-22": 67,
       "2023-10-02": 16,
       "2023-09-27": 20,
-      "2023-09-11": 24,
-      "2023-05-15": 16
+      "2023-09-11": 24
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bucks.com.ico",
     "slug": "bucks-com-redirect",
     "status": "up",
-    "uptime": "96.20%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "43.17%",
     "uptimeYear": "95.22%",
     "time": 738,
-    "timeDay": 673,
-    "timeWeek": 456,
-    "timeMonth": 581,
+    "timeDay": 450,
+    "timeWeek": 441,
+    "timeMonth": 583,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2024-05-02": 1222,
@@ -82,8 +81,7 @@
       "2023-10-22": 67,
       "2023-10-02": 16,
       "2023-09-27": 20,
-      "2023-09-11": 24,
-      "2023-05-15": 16
+      "2023-09-11": 24
     }
   },
   {
@@ -98,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 375,
-    "timeWeek": 212,
-    "timeMonth": 197,
+    "timeDay": 109,
+    "timeWeek": 204,
+    "timeMonth": 198,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -116,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 545,
-    "timeDay": 484,
-    "timeWeek": 487,
-    "timeMonth": 481,
-    "timeYear": 533,
+    "timeDay": 390,
+    "timeWeek": 446,
+    "timeMonth": 478,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-12-26": 41,
       "2023-12-24": 34,
